@@ -6,7 +6,7 @@ I’m focused on building real products, strengthening my software engineering s
 
 ## 🚀 What I'm Building
 
-- **Slipmark** — SaaS platform focused on revenue protection, monitoring, and recovery.
+- **Slipmark** — Gmail-based client follow-up system for agencies, helping teams track replies, overdue follow-ups, client status, and blockers.
 - **Kashif HQ** — Personal AI-agent headquarters and digital command center.
 - **Godhury Marketing Communication** — Digital systems and web experiences for a family advertising business.
 - **THIDA Skincare** — E-commerce and business systems for a skincare brand.
