@@ -8,7 +8,7 @@ I’m focused on building real products, strengthening my software engineering s
 
 - **Slipmark** — SaaS platform focused on revenue protection, monitoring, and recovery.
 - **Kashif HQ** — Personal AI-agent headquarters and digital command center.
-- **Gोधhury Marketing Communication** — Digital systems and web experiences for a family advertising business.
+- **Godhury Marketing Communication** — Digital systems and web experiences for a family advertising business.
 - **THIDA Skincare** — E-commerce and business systems for a skincare brand.
 
 ## 🎓 Education
