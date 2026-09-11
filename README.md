@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kashif Chowdhury 👋</h1>
 
 <p align="center">
-  <strong>Software Engineering Student • SaaS Builder • Entrepreneur</strong>
+  <strong>IT Student • SaaS Builder • Entrepreneur</strong>
 </p>
 
 <p align="center">
